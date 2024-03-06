@@ -26,3 +26,6 @@ Class Garage membutuhkan class Car dan Motorcycle untuk variabel atau Composite
 ### Untuk Cpp
 g++ main.cpp -o main.exe
 main.exe
+
+### untuk Python
+python main.py
